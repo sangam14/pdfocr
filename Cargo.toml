@@ -1,0 +1,14 @@
+[package]
+name = "pdfocr"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-multipart = "0.6"
+actix-web = "4"
+cairo-rs = { version = "0.15", features = ["png"] }
+image = "0.25.6"
+lopdf = "0.31"
+pdf-extract = "0.7"
+poppler = "0.3"
+tesseract = "0.13"

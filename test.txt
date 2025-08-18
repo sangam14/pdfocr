@@ -1,0 +1,2 @@
+This is a test PDF for OCR
+It should extract this text
