@@ -8,7 +8,7 @@ actix-multipart = "0.6"
 actix-web = "4"
 cairo-rs = { version = "0.15", features = ["png"] }
 image = "0.25.6"
-lopdf = "0.31"
+lopdf = "0.34"
 pdf-extract = "0.7"
 poppler = "0.3"
 tesseract = "0.13"
